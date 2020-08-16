@@ -1,0 +1,9 @@
+{
+    // 解决终端中文乱码
+    "terminal.integrated.shellArgs.windows": ["-NoExit", "/c", "chcp 65001"],
+    "terminal.integrated.fontFamily": "Lucida Console",
+
+	"code-runner.runInTerminal": true,
+	"code-runner.saveAllFilesBeforeRun": true,
+	"python.pythonPath": "D:\\ProgramFiles\\Python38\\python.exe"
+}
